@@ -12,7 +12,7 @@
 * [The Sky Blessing 公式ディスコード](https://discord.gg/vPqHuQNMEv)こちらのサーバーの[フォーラム]()にてサポートしております
 
 ## 関連リンク
-* [「E.G.O追加パッチDatapack」GitHubリンク](https://github.com/hamu350/E.G.O_datapack/tree/main)
+* [「E.G.O追加パッチDatapack」GitHubリンク](https://github.com/hamu350/E.G.O_datapack)
 
 ## 注意
 このデータパックは「TheSkyBlessing」と「Lobotomy Corporation」の二次創作であり、TheSkyBlessingやプロジェクトムーンの公式コンテンツではありません。　
