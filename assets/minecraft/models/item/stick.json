@@ -3534,6 +3534,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 30005
+            },
+            "model": "item/artifact/stick/30005"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30010
+            },
+            "model": "item/artifact/stick/30010"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 40001
             },
             "model": "item/artifact/stick/40001"
@@ -3555,6 +3567,12 @@
                 "custom_model_data": 40004
             },
             "model": "item/artifact/stick/40004"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50001
+            },
+            "model": "item/other/stick/50001"
         }
     ]
 }

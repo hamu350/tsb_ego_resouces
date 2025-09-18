@@ -24,7 +24,8 @@
                 "tsb_armor:trims/models/armor/1118",
                 "tsb_armor:trims/models/armor/1118_leggings",
                 "tsb_armor:trims/models/armor/20400",
-                "tsb_armor:trims/models/armor/20400_leggings"
+                "tsb_armor:trims/models/armor/20400_leggings",
+                "tsb_armor:trims/models/armor/30009"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {

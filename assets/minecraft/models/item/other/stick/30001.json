@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer1": "item/other/stick/30001"
+    }
+}

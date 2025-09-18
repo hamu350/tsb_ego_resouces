@@ -9,7 +9,7 @@
 リソースパックダウンロードは[こちら]()
 
 ## サポート
-* [The Sky Blessing 公式ディスコード](https://discord.gg/vPqHuQNMEv)こちらのサーバーの[フォーラム]()にてサポートしております
+* [The Sky Blessing 公式ディスコード](https://discord.gg/vPqHuQNMEv)こちらのサーバーの[フォーラム](https://discord.com/channels/742465492861845564/1416218190131888251)にてサポートしております
 
 ## 関連リンク
 * [「E.G.O追加パッチDatapack」GitHubリンク](https://github.com/hamu350/E.G.O_datapack)
