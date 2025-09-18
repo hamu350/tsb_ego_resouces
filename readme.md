@@ -6,7 +6,7 @@
 ## 概要
 この二次創作は「E.G.O追加パッチDatapack」に使われるアイテムのリソースパックです\
 この二次創作をプレイする際はTheSkyBlessing公式リソースパックではなくこちらのリソースパックを適応させてください\
-リソースパックダウンロードは[こちら]()
+リソースパックダウンロードは[こちら](https://www.dropbox.com/scl/fi/g91c4tmioqhs51pscfw4q/resouces_tsb_ego.zip?rlkey=3iuvrd325b1z9nhoikufsa2en&st=pa3ecr80&dl=0)
 
 ## サポート
 * [The Sky Blessing 公式ディスコード](https://discord.gg/vPqHuQNMEv)こちらのサーバーの[フォーラム](https://discord.com/channels/742465492861845564/1416218190131888251)にてサポートしております
